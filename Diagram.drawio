@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2024-04-19T14:04:07.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="f9dspEPq22y6vlElt2_9" version="21.6.8" type="device">
+  <diagram name="Page-1" id="8y_AdeFQRGMPhpYeC2Do">
+    <mxGraphModel dx="1364" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2kzDk-7vmwn6mUD01jtE-1" value="Entity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2kzDk-7vmwn6mUD01jtE-2" value="Draggable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2kzDk-7vmwn6mUD01jtE-3" value="Rigidbody" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="490" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kzDk-7vmwn6mUD01jtE-4" value="Collider" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="590" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
